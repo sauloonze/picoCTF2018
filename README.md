@@ -46,9 +46,14 @@ The structure of the writeup came from here [PlatyPew](https://github.com/PlatyP
     </thead>
     <tbody>
         <tr>
-            <td markdown="span"><a href="#">title</a></td>
-            <td markdown="span">points</td>
-            <td markdown="span">Solved/Unsolved</td>
+            <td markdown="span"><a href="cryptography/crypto_warmup_1_COMPLETED">Crypto Warmup 1</a></td>
+            <td markdown="span">75</td>
+            <td markdown="span">Solved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="cryptography/crypto_warmup_2_COMPLETED">Crypto Warmup 2</a></td>
+            <td markdown="span">75</td>
+            <td markdown="span">Solved</td>
         </tr>
     </tbody>
 </table>
