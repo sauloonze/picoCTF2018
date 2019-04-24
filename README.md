@@ -120,9 +120,14 @@ The structure of the writeup came from here [PlatyPew](https://github.com/PlatyP
     </thead>
     <tbody>
         <tr>
-            <td markdown="span"><a href="#">title</a></td>
-            <td markdown="span">points</td>
-            <td markdown="span">Solved/Unsolved</td>
+            <td markdown="span"><a href="reversing/reversing_warmup_1_COMPLETED">Reversing Warmup 1</a></td>
+            <td markdown="span">50</td>
+            <td markdown="span">Solved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="reversing/reversing_warmup_2_COMPLETED">Reversing Warmup 2</a></td>
+            <td markdown="span">50</td>
+            <td markdown="span">Solved</td>
         </tr>
     </tbody>
 </table>
