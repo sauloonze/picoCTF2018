@@ -1,13 +1,14 @@
 # picoCTF 2018 - Improving my Writeup skills
 
-I am challenged to complete my first CTF to improve my writeup and cyber security skills.
+I am challenged to complete my first CTF and improve my writeup and cyber security skills. :snail: :bust_in_silhouette:
 
-## Disclaim ;)
+## Notes :ear:
 
-I have used the walkthough to help with the challenges and automating the solutions.
-The structure of the writeup came from he https://github.com/PlatyPew/picoctf-2018-writeup 
+I have used the walkthough to help with the challenges and automating the solutions. [freeCodeCamp.org](https://www.youtube.com/watch?v=uIkxsBgkpj8)
 
-## Content Page
+The structure of the writeup came from here [PlatyPew](https://github.com/PlatyPew/picoctf-2018-writeup)
+
+## Content Page :notebook:
   - [Binary Exploitation](#binary-exploitation)
   - [Cryptography](#cryptography)
   - [Forensics](#forensics)
